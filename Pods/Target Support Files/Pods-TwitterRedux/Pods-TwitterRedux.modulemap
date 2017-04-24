@@ -1,0 +1,6 @@
+framework module Pods_TwitterRedux {
+  umbrella header "Pods-TwitterRedux-umbrella.h"
+
+  export *
+  module * { export * }
+}
